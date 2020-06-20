@@ -9,7 +9,7 @@ Display temperature through Artisan and RoastLogger using Arduino UNO.
 The sensor used for reading temp is MAX6675.
 
 ## How to configure Artisan:
- 1 - Open the menu: Config > Device. Then select **TC4** device.
+ 1 - Open the menu: **Config** > **Device**. Then select **TC4** device.
  
  2 - Inside Port Configuration, fill:
  * **Your COM Port**: eg. COM3
